@@ -24,6 +24,7 @@ import meta from "./company/meta.png";
 import edunet from "./company/edunet.png";
 import infosys from "./company/infosys.png";
 import ibm from "./company/ibm.png";
+import internfort from "./company/internfort.png";
 
 import coalmine from "./coalmine.png";
 import exoplanets from "./exoplanets.png";
@@ -57,4 +58,5 @@ export {
   coalmine,
   exoplanets,
   aiwebbuilder,
+  internfort,
 };

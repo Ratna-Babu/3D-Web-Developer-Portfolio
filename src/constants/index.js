@@ -23,6 +23,7 @@ import {
   coalmine,
   aiwebbuilder,
   exoplanets,
+  internfort,
 } from "../assets";
 
 export const navLinks = [
@@ -142,7 +143,7 @@ const experiences = [
   {
     title: "Full Stack Web Development Internship",
     company_name: "InternFort",
-    icon: ibm,
+    icon: internfort,
     iconBg: "#E6DEDD",
     date: "July 2024 - Sep 2024",
     points: [

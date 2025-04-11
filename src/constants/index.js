@@ -140,6 +140,18 @@ const experiences = [
     ],
   },
   {
+    title: "Full Stack Web Development Internship",
+    company_name: "InternFort",
+    icon: ibm,
+    iconBg: "#E6DEDD",
+    date: "July 2024 - Sep 2024",
+    points: [
+      "Developed full-stack applications using React for the frontend and Django for the backend.",
+      "Built and deployed two major projects: an e-commerce website and a job portal with user authentication, database integration, and responsive design.",
+      "Gained hands-on experience with database management and state management in React.",
+    ],
+  },
+  {
     title: "Meta Front-End Developer Professional Certificate",
     company_name: "Coursera – Pursuing",
     icon: meta,
@@ -152,18 +164,6 @@ const experiences = [
     ],
   },
   
-  {
-    title: "Data Analyst Certification",
-    company_name: "IBM – Pursuing",
-    icon: ibm,
-    iconBg: "#E6DEDD",
-    date: "Jan 2025 - Present",
-    points: [
-      "Learning key data analysis techniques using Python, SQL, and Excel for data-driven decision-making.",
-      "Understanding statistical methods, data wrangling, and predictive analytics.",
-      "Exploring data visualization and storytelling through tools like Tableau and Matplotlib."
-    ],
-  },
 ];
 
 
